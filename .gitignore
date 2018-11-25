@@ -3,3 +3,4 @@ venv
 .DS_Store
 .env
 json/*
+csv/merged_snapshots.csv
